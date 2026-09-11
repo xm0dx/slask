@@ -8,6 +8,6 @@ public class Account
 
     public void Deposit(int amount)
     {
-        Balance += amount;
+        Console.WriteLine("Nisse was here!");
     }
 }
